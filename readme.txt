@@ -1,5 +1,5 @@
 Name: Akshya Srinivasa Raghavan
-ID: 1001547268
+Language: C
 
 matrix.c : code file
 matwrite.c : prints matrices into input.txt file. This was used to create large matrices to work on speedup and efficiency
